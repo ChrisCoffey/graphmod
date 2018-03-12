@@ -1,6 +1,7 @@
-resolver: ghc-7.10.3
+flags: {}
 packages:
-- '.'
+- .
 extra-deps:
 - dotgen-0.4.2
 - haskell-lexer-1.0.1
+resolver: ghc-8.2.2
